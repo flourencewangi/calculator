@@ -4,10 +4,20 @@ function myfunction(a,b){
 
 }
 
-
+age=11
 function checkage(){if(age<18){
-  var age=16
+  
   console.log('minor');}
   else{console.log('adult');}
-  checkage();
 }
+checkage();
+  
+var sum=2
+
+function checksum(){if(sum<2){
+  
+  console.log('2');}
+  else{console.log('nil');}
+}
+checksum();
+  
