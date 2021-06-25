@@ -3,13 +3,14 @@ button{
   font-size: 30px;
   border: none;
   background-color: lavenderblush;
-  padding: 20px 25px;
+  padding: 30px 30px;
   cursor: pointer;
   text-align: center;
-  border-radius: 50%;
+  border-radius: 100%;
   
 }
 body{
-  background-color: purple;
+  background-color: black;
+  align-content: center;
   align-content: center;
 }
